@@ -14,7 +14,7 @@ A simple memory game for the sole purpose of training programming logic using Js
  <br>
 
 > <h2>🔍 here you will find</h2>
-> <br>
+<br>
 
 <ul>
 <li>JavaScript</li>
@@ -24,7 +24,9 @@ A simple memory game for the sole purpose of training programming logic using Js
 
 <br>
 
-<hr>
+> <h3>❤️ Lastly <h3>
+ 
+ <p> Made together with Professor Akira Hanashiro </p>
 
 <br>
 <br>
@@ -32,7 +34,7 @@ A simple memory game for the sole purpose of training programming logic using Js
 <img src='./assets/memory-game-img.png'>
 <br>
 <br>
-<hr>
+
 <br>
 <br>
 <img src='./assets/card-back.png'>
