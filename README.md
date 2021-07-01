@@ -1,4 +1,4 @@
-# Memory-game 🎲
+# Memory game 🎲
 
 > <h2>📚 About </h2>
 
