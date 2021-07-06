@@ -4,7 +4,7 @@
 
 <br>
 
-A simple memory game for the sole purpose of training programming logic using Js
+A simple memory game for the sole purpose of training programming logic using Js.
 
 <br>
 
@@ -27,6 +27,12 @@ A simple memory game for the sole purpose of training programming logic using Js
 > <h3>❤️ Lastly <h3>
  
  <p> Made together with Professor Akira Hanashiro </p>
+ <p>This is the first repository belonging to a "series" with the purpose of practicing programming logic. If you want to check the other repositories belonging to this "series": </p>
+
+<ul>
+<li><a href='https://github.com/JoaoMarcelo-J/tictactoe-game'>Tic Tac Toe</a></li>
+<li><a href='https://github.com/JoaoMarcelo-J/js-pomodoro'>Pomodoro</a></li>
+</ul>
 
 <br>
 <br>
